@@ -1,4 +1,16 @@
 aid: qrcode-monkey
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/qrcode-monkey.png
 name: Qrcode Monkey
 description: "Integrate custom and unique looking QR codes into your system or workflow"
 url: https://www.qrcode-monkey.com/qr-code-api-with-logo/
