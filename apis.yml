@@ -39,7 +39,6 @@ apis:
   - name: Qrcode Monkey
     description: "Integrate custom and unique looking QR codes into your system or workflow"
     humanURL: https://www.qrcode-monkey.com/qr-code-api-with-logo/
-    baseURL: https://www.qrcode-monkey.com/qr-code-api-with-logo/
     tags:
       - Development
     properties:
